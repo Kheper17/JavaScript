@@ -1,0 +1,16 @@
+.logo {width:100px; float:left;}
+h1 {text-align: center;}
+li {display:inline}
+.border{
+    border:2px solid black;
+    border-radius: 0.5em;
+}
+.p1{padding:10px;}
+.m1{margin:10px;}
+.partie h2{color:red;}
+footer {
+    background-color:#283645;
+    color:white;
+    text-align:center;
+    padding:10px;
+}
